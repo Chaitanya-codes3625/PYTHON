@@ -1,0 +1,4 @@
+
+b=float(input("enter the value of farenheit"))
+a=(5/9)*(b-32)
+print(a)
