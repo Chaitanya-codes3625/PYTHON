@@ -1,0 +1,4 @@
+r=int(input("enter the radius value of circle"))
+p=3.14*r*r
+a=3.14*r
+print(p,a)
