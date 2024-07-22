@@ -1,0 +1,17 @@
+a=int(input('enter the no. of the day'))
+if a==1:
+  print("Monday")
+elif a==2:
+  print("Tuesday")
+elif a==3:
+  print("wednesday")
+elif a==4:
+  print("thursday")
+elif a==5:
+  print("friday")
+elif a==6:
+  print("saturday")
+elif a==7:
+  print("sunday")
+else:
+  print("invalid")
